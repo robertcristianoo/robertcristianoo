@@ -33,7 +33,7 @@ Hoje uso IA (Claude Code) no meu fluxo de engenharia: migrações de versão mai
 
 ## Alguns projetos públicos
 
-- [**multi-pokeidle-io**](https://github.com/robertcristianoo/multi-pokeidle-io): app de desktop (Electron) que abre várias contas do PokeIdle numa única janela, cada uma com sessão isolada. Projeto de fã, com instalador e releases automáticas.
+- [**multi-pokeidle-io**](https://github.com/robertcristianoo/multi-pokeidle-io): app de desktop (Electron) que abre várias contas do PokeIdle.io numa única janela, cada uma com sessão isolada. Projeto de fã, com instalador e releases automáticas.
 - [**brazil-states-and-cities**](https://github.com/robertcristianoo/brazil-states-and-cities): lista completa de estados e cidades do Brasil para importar no seu banco de dados.
 - [**TCC**](https://github.com/robertcristianoo/TCC): avaliação da viabilidade de um sistema de identificação de chamadas falsas em chamadas de emergência (IFNMG).
 - [**compiladores**](https://github.com/robertcristianoo/compiladores) e [**Geometric-Algorithms**](https://github.com/robertcristianoo/Geometric-Algorithms): trabalhos de disciplinas em C++.
